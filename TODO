@@ -1,0 +1,7 @@
+- UI/HUD elements
+- Purchasing things
+- Damage is visible on walls
+- New units
+- New enemies
+- Rudimentary UI, e.g. for purchasing things
+- A* to take wall damage, etc., into account
