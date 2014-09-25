@@ -1,7 +1,12 @@
-- Sound effects
+- Global health
 - Damage is visible on walls
+- Tweaking enemy recoil time
+- Global flow (end conditions, global health, etc.)
+- Clean up the stats gauges. Instead of having all the sprites, just have one sprite with 3 types of bar--unfilled, filled, and preview. Don't show levels that can't be obtained by this unit, based on the available upgrades.
 - New units
 - New enemies
+- Sound effects
+- Animations for existing units (e.g. magic animation)
 - A* to take wall damage, etc., into account
 
 Bug: Ranged units always face the location at which they engaged their current target, rather than facing where their current target is at the moment
