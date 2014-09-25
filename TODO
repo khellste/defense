@@ -1,14 +1,8 @@
-- When you hover over the upgrade button, the gauge should show what the new value will be after you purchase
-- Upgrading should cost money
-- Figure out the best way to organize the max/min stat values code. It's a mess right now.
-
-- UI/HUD elements
-- Ability to sell units
 - Ability to repair units
+- Sound effects
 - Damage is visible on walls
 - New units
 - New enemies
-- Rudimentary UI, e.g. for purchasing things
 - A* to take wall damage, etc., into account
 
 Bug: Ranged units always face the location at which they engaged their current target, rather than facing where their current target is at the moment
