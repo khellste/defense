@@ -1,5 +1,3 @@
-- Global health
-- Damage is visible on walls
 - Tweaking enemy recoil time
 - Global flow (end conditions, global health, etc.)
 - Clean up the stats gauges. Instead of having all the sprites, just have one sprite with 3 types of bar--unfilled, filled, and preview. Don't show levels that can't be obtained by this unit, based on the available upgrades.
