@@ -7,8 +7,5 @@
 - New enemies
 - Sound effects
 - Animations for existing units (e.g. magic animation)
-- A* to take wall damage, etc., into account
 
 Bug: Ranged units always face the location at which they engaged their current target, rather than facing where their current target is at the moment
-
-Bug: When you buy the last upgrade in a given category gets stuck in the "unselected hover" sprite
