@@ -14,5 +14,3 @@
 - Sound effects
 - Animations for existing units (e.g. magic animation)
 - Improved enemy AI to avoid being in range of defending units
-
-Bug: Ranged units always face the location at which they engaged their current target, rather than facing where their current target is at the moment
