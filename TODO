@@ -1,4 +1,9 @@
 - Better enemy abstraction
+	- Possible implementation:
+		EnemyUnit, PassiveEnemyUnit, and ActiveEnemyUnit.
+			Passive: like the knight, just walks forward and that's about it.
+			Active: like passive, but periodically takes some action (changes direction? heals other enemy units?)
+
 
 - Tweaking enemy recoil time
 - Global flow (end conditions, global health, etc.)
@@ -8,5 +13,6 @@
 - New enemies
 - Sound effects
 - Animations for existing units (e.g. magic animation)
+- Improved enemy AI to avoid being in range of defending units
 
 Bug: Ranged units always face the location at which they engaged their current target, rather than facing where their current target is at the moment

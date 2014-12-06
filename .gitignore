@@ -5,3 +5,4 @@ lib/impact
 lib/weltmeister
 lib/plugins
 game.min.js
+*.sh
