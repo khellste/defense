@@ -1,15 +1,15 @@
-- Better enemy abstraction
-	- Possible implementation:
-		EnemyUnit, PassiveEnemyUnit, and ActiveEnemyUnit.
-			Passive: like the knight, just walks forward and that's about it.
-			Active: like passive, but periodically takes some action (changes direction? heals other enemy units?)
+- New enemies. Ideas:
+	- An enemy that teleports
+	- An necromancer or summoner
+	- Dragon
 
+- New units. Ideas:
+	- Summoner that summons white knights to fight on your behalf
 
-- Tweaking enemy recoil time
 - Global flow (end conditions, global health, etc.)
 - Enemy death animation
-- New units
-- New enemies
+
+- Instructions screen
+
 - Sound effects
 - Animations for existing units (e.g. magic animation)
-- Improved enemy AI to avoid being in range of defending units
