@@ -5,13 +5,17 @@
 
 - New enemies. Ideas:
 	- An enemy that teleports
-	- An necromancer or summoner
 	- Dragon
 
 - New units. Ideas:
+    - Terrain hazard (pitfall? spikes?)
 	- Summoner that summons white knights to fight on your behalf
 
-- Enemy death animation
+- Animations:
+    - Enemy death
+    - Wizard/magic
+    - Summoning
+    - Purchase animation?
+    - Sell unit animation?
 
 - Sound effects
-- Animations for existing units (e.g. magic animation)
