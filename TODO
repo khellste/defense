@@ -1,6 +1,8 @@
 - Instructions screen
 - Global flow (end conditions, global health, etc.)
 
+- Prevent enemies from spawning where walls are placed, OR prevent walls from being placed anywhere an enemy might spawn
+
 - New enemies. Ideas:
 	- An enemy that teleports
 	- An necromancer or summoner
