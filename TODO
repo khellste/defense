@@ -4,7 +4,7 @@
 - Prevent enemies from spawning where walls are placed, OR prevent walls from being placed anywhere an enemy might spawn
 
 - New enemies. Ideas:
-	- An enemy that teleports
+	- An enemy that teleports to another square the same distance from the goal
 	- Dragon
 
 - New units. Ideas:
@@ -14,6 +14,5 @@
 - Animations:
     - Enemy death
     - Purchase animation?
-    - Sell unit animation?
 
 - Sound effects
