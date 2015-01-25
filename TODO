@@ -1,3 +1,7 @@
+- Get rid of the top-level plugin files (makes it easier to build from scratch)
+- Always show health bars on enemies with damage
+- Allow user to restart after winning or losing the game
+
 - Instructions screen
 - Global flow (end conditions, global health, etc.)
 
