@@ -1,8 +1,7 @@
-- Get rid of the top-level plugin files (makes it easier to build from scratch)
 - Allow user to restart after winning or losing the game
+- Change what the "home" sprite looks like
 
 - Instructions screen
-- Global flow (end conditions, global health, etc.)
 
 - New enemies. Ideas:
 	- An enemy that teleports to another square the same distance from the goal
